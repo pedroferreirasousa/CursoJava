@@ -10,13 +10,13 @@ public class DesafioTemperatura {
 		
 		double result = ( valorF - 32 ) * TRANSFORM;
 		
-		System.out.println(result);
+		System.out.println("o resultado em graus °C é: " + result);
 		
 		valorF = 50;
 		
 		result = (valorF - 32) * TRANSFORM;
 		
-		System.out.println(result);
+		System.out.println("o resultado em graus °C é: " + result);
 		
 	}
 }
