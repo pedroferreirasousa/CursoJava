@@ -59,7 +59,7 @@ public class TipoString {
 		System.out.println("Frase qualquer".substring(6));
 		System.out.println("Frase qualquer".substring(6, 10));
 		
-		//TESTAR MAIS POSSIBILIDADES
+		//TESTAR MAIS POSSIBILIDADES.
 	
 	
 	}
